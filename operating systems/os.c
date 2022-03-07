@@ -114,7 +114,7 @@ int main()
                 printf ("Can\'t write all string\n");
                 exit (-1);
             }
-        //    printf ("second write\n");
+        //    printf ("second write \n");
             reps -= 1;
         }
 
